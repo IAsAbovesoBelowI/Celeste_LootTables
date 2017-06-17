@@ -1,35 +1,35 @@
 ﻿<loottables>
 	<loottable name="NuggetSmall">
 		<rewardLevel min="0" max="99">
-			<advisors chance="20%">
-				<rarity  common="33%" uncommon="34%" rare="33%" epic="0%" />
+			<advisors chance="5%">
+				<rarity  common="40%" uncommon="35%" rare="25%" epic="0%" />
 			</advisors>
-			<materials chance="5%">
-				<rarity junk="10%" uncommon="30%" common="30%" rare="30%" epic="0%" />
+			<materials chance="50%">
+				<rarity junk="10%" uncommon="45%" common="25%" rare="20%" epic="0%" />
 			</materials>
-			<consumables chance="5%">
-				<rarity  common="33%" uncommon="34%" rare="33%" epic="0%" />
+			<consumables chance="10%">
+				<rarity  common="40%" uncommon="35%" rare="25%" epic="0%" />
 			</consumables>
-			<designs chance="10%">
-				<rarity  common="33%" uncommon="34%" rare="33%" epic="0%" />
+			<designs chance="5%">
+				<rarity  common="40%" uncommon="35%" rare="25%" epic="0%" />
 			</designs>
-			<blueprints chance="10%">
-				<rarity  common="33%" uncommon="34%" rare="33%" epic="0%" />
+			<blueprints chance="5%">
+				<rarity  common="40%" uncommon="35%" rare="25%" epic="0%" />
 			</blueprints>
-			<traits chance="50%">
-				<rarity uncommon="33%" rare="34%" epic="33%" legendary="0%" />
+			<traits chance="25%">
+				<rarity uncommon="40%" rare="35%" epic="25%" legendary="0%" />
 			</traits>
 		</rewardLevel>
 	</loottable>
 	<loottable name="NuggetMedium">
 		<rewardLevel min="0" max="99">
-			<advisors chance="20%">
+			<advisors chance="5%">
 				<rarity common="25%" uncommon="25%" rare="25%" epic="25%" />
 			</advisors>
-			<materials chance="5%">
+			<materials chance="40%">
 				<rarity junk="5%" common="20%" uncommon="25%" rare="25%" epic="25%" />
 			</materials>
-			<consumables chance="5%">
+			<consumables chance="10%">
 				<rarity common="25%" uncommon="25%" rare="25%" epic="25%" />
 			</consumables>
 			<designs chance="10%">
@@ -38,8 +38,8 @@
 			<blueprints chance="10%">
 				<rarity common="25%" uncommon="25%" rare="25%" epic="25%" />
 			</blueprints>
-			<traits chance="50%">
-				<rarity uncommon="33%" rare="34%" epic="33%" legendary="0%" />
+			<traits chance="25%">
+				<rarity uncommon="32%" rare="34%" epic="34%" legendary="0%" />
 			</traits>
 		</rewardLevel>
 	</loottable>
